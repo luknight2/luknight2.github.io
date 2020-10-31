@@ -1,8 +1,6 @@
 ## 这是美国职业篮球联盟湖人队粉丝的主页
 
-You can use the [editor on GitHub](https://github.com/luknight2/luknight2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+湖人最终还是得到了2020年总冠军--在一个史上时间跨度最大的赛季之后。
 
 ### Markdown
 
