@@ -25,14 +25,13 @@
 那个球活像一个重量级拳手误入中量级舞台似的。虽然勒布朗之后两罚不中，但热火已经完全被打到了。
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+这是勒布朗第四个总冠军。
 
-### Jekyll Themes
+之前勒布朗三个冠军，九次总决赛，有八次总决赛都是“球队为我拉开空间，我来负责一切”。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luknight2/luknight2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+以往总是如此：勒布朗需要空间才能发挥，于是球队为他做调整，给他无数射手，释放他的力量。但他所在的冠军队，没一支是以常规赛强硬防守著称的。
+但这个赛季，湖人一直用双塔拼防守。直到总决赛第五场。
+今天才是第一次，摆出勒布朗式空间小球阵，然后，轻松取胜了。
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+姓名：陆至诚 学号：19090310807 学习中心：南京学习中心
